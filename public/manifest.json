@@ -1,6 +1,6 @@
 {
-  "name": "CodingPhase",
-  "short_name": "CodingPhase",
+  "name": "restaurant-app",
+  "short_name": "restaurant-app",
   "background_color": "#ad38f1",
   "theme_color": "#ad38f1",
   "start_url": "/",
